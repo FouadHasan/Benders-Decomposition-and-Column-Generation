@@ -1,7 +1,5 @@
-clc
-clear all
-
 %% Benders Decomposition
+clc
 clear all
 
 %% master problem(minimization)
